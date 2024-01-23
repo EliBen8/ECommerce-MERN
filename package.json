@@ -1,0 +1,15 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "eCommerce Application Built With the MERN Stack",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Eli Bendavid",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
