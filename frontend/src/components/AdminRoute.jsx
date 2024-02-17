@@ -7,4 +7,4 @@ const AdminRoute = () => {
   return userInfo && userInfo.isAdmin ? <Outlet /> : <Navigate to="/login" replace />
 };
 
-export default AdminRoute
+export default AdminRoute;
